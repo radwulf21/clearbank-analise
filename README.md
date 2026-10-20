@@ -9,10 +9,15 @@ O objetivo do projeto e ler um arquivo CSV de transacoes bancarias (transacoes.c
 ## Estrutura do Repositorio
 
 clearbank-analise/
+
 ├── desafio-final.ipynb     # Notebook principal com o codigo e saidas salvas
+
 ├── transacoes.csv          # Base de dados em CSV (gerada no notebook)
+
 ├── relatorio.json          # Arquivo JSON exportado com metricas e suspeitas
+
 ├── grafico.png             # Grafico de barras (Credito vs Debito por mes)
+
 └── README.md               # Documentacao do projeto
 
 ## Tecnologias e Modulos Utilizados
