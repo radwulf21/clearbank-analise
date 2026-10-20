@@ -1,0 +1,21 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,3500.00,Salario,salario
+2,2026-01-12,CLI002,debito,180.50,Mercado,compra
+3,2026-01-15,CLI003,credito,12000.00,Venda Carro,transferencia
+4,2026-01-22,CLI001,debito,350.00,Luz,conta
+5,2026-01-28,CLI004,credito,500.00,Pix,transferencia
+6,2026-02-01,CLI002,credito,4000.00,Freelance,salario
+7,2026-02-10,CLI003,debito,1500.00,Aluguel,moradia
+8,2026-02-14,CLI001,credito,15000.00,Investimento,investimento
+9,2026-02-20,CLI005,debito,80.00,Farmacia,saude
+10,2026-02-25,CLI002,debito,220.00,Internet,conta
+11,2026-03-02,CLI001,credito,3500.00,Salario,salario
+12,2026-03-10,CLI004,debito,99.90,Streaming,assinatura
+13,2026-03-15,CLI003,debito,450.00,Mercado,compra
+14,2026-03-20,CLI005,credito,1200.00,Restituição,outros
+15,2026-03-28,CLI002,debito,310.00,Combustivel,transporte
+16,2026-03-29,CLI001,credito,abc,Valor texto,erro
+17,2026-03-30,,debito,100.00,Sem cliente,erro
+18,15/04/2026,CLI002,credito,200.00,Data formato BR,erro
+19,2026-04-02,CLI003,pix,150.00,Tipo invalido,erro
+,2026-04-05,CLI004,debito,80.00,ID vazio,erro
